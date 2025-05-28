@@ -1,4 +1,4 @@
-# Título do Projeto
+# Future Streaming
 
 `CURSO: Sistemas de Informação`
 
@@ -6,20 +6,19 @@
 
 `SEMESTRE: 3º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Busca-se desenvolver uma plataforma de streaming que apresente uma experiência mais diversificada ao usuário, utilizando dados como humor, horário de acesso e preferências específicas para recomendar conteúdo.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+Carlos Aguinaldo Alves
+Davi Chavante Carlos
+Gustavo Veloso de Castro
+Michael Alex Kaczanoski
+Nikolas Martins de Oliveira
 
 ## Orientador
 
-* Nome completo do professor 
+* Dra. Maria Inês Lage de Paula
 
 # Planejamento
 
